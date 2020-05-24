@@ -13,6 +13,13 @@ p {
   position: center;
 }
 
+nav li {
+  display: inline;
+  padding-right: 2rem;
+  font-size: 18px;
+  color: black;
+}
+
 #ARO {
   color: #78b3e0;
 }
