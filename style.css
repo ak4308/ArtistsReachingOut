@@ -1,3 +1,18 @@
+header {
+  display: flex;
+  align-items: center;
+  padding: .5rem 3.75rem;
+}
+
+nav li {
+  display: inline;
+  padding-right: 2rem;
+  font-size: 18px;
+  color: black;
+  margin-top: 10px;
+  float: right;
+}
+
 h1 {
   font-family: 'Rubik Mono One', sans-serif;
   font-size: 56px;
@@ -11,15 +26,6 @@ p {
   margin-left: 20px;
   width: 50%;
   position: center;
-}
-
-nav li {
-  display: inline;
-  padding-right: 2rem;
-  font-size: 18px;
-  color: black;
-  margin-top: 10px;
-  float: right;
 }
 
 #ARO {
