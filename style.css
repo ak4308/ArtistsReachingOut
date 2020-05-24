@@ -18,6 +18,8 @@ nav li {
   padding-right: 2rem;
   font-size: 18px;
   color: black;
+  margin-top: 10px;
+  float: right;
 }
 
 #ARO {
