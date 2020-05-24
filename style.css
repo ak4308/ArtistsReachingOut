@@ -26,10 +26,14 @@ p {
   font-size: 18px;
   margin-left: 20px;
   margin-top: 20px;
-  width: 50%;
+  width: 75%;
   position: center;
   color: #b3b3b3;
   line-height: 1.2;
+}
+
+.header-social {
+  padding: 10px;
 }
 
 #ARO {
