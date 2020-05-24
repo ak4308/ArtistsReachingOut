@@ -22,14 +22,17 @@ h1 {
 
 p {
   font-family: 'Open Sans', sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 18px;
   margin-left: 20px;
+  margin-top: 20px;
   width: 50%;
   position: center;
+  color: #b3b3b3;
+  line-height: 1.2;
 }
 
 #ARO {
-  color: #78b3e0;
+  color: blue;
 }
 
