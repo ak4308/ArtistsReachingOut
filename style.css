@@ -1,7 +1,8 @@
 header {
   display: flex;
-  align-items: center;
+  align-items: right;
   padding: .5rem 3.75rem;
+  font-family: 'Open Sans', sans-serif;
 }
 
 nav li {
